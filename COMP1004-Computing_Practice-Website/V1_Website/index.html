@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Football event manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1>Time management for football</h1>
+</header>
+
+<nav class="navigation">
+    <ul>
+        <li><button onclick="openPopupWindow('Events')">Events</button></li>
+        <li><button onclick="openPopupWindow('SignIn')">Sign in</button></li>
+        <li><button onclick="openPopupWindow('Stats')">Statistics</button></li>
+    </ul>
+</nav>
+
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <button class="close-btn" onclick="closePopup()">×</button>
+        <div id="popup-Events" class="popup-page">
+            <h1>Events</h1>
+            <p>Check out the events you have added to the calendar!</p>
+        </div>
+        <div id="popup-SignIn" class="popup-page">
+            <h1>Sign in</h1>
+            <p>Sign in to save information inputted.</p>
+            <div class="SignInWindow">
+                <p>Sign in here</p>
+            </div>
+        </div>
+        <div id="popup-Stats" class="popup-page">
+            <h1>Stats</h1>
+            <p>Check out your statistics!</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="column sideL">
+        <p>Tips and tricks</p>
+    </div>
+    <div class="column middle">
+        <p>League table</p>
+    </div>
+    <div class="column sideR">
+        <p>Stats for different leagues</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="ClubsWeWorkWith">
+        <p>Clubs that we work with</p>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 Football Time Manager. All Rights Reserved.</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
