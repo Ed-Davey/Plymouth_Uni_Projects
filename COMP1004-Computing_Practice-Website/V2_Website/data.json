@@ -1,0 +1,238 @@
+{
+  "Leagues": [
+    {"name": "Premier League",
+      "teams": [
+        {"position": 1, "name":  "Liverpool", "games_played": 29, "wins": 21, "draws": 1, "loses": 7, "goal_difference": "+42", "points": 70},
+        {"position": 2, "name":  "Arsenal", "games_played": 29, "wins": 16, "draws": 10, "loses": 3, "goal_difference": "+29", "points": 58},
+        {"position": 3, "name":  "Nottingham Forest", "games_played": 29, "wins": 16, "draws": 6, "loses": 7, "goal_difference": "+14", "points": 54},
+        {"position": 4, "name":  "Chelsea", "games_played": 29, "wins": 14, "draws": 7, "loses": 8, "goal_difference": "+16", "points": 49},
+        {"position": 5, "name":  "Manchester City", "games_played": 29, "wins": 14, "draws": 6, "loses": 9, "goal_difference": "+15", "points": 48},
+        {"position": 6, "name":  "Newcastle United", "games_played": 28, "wins": 14, "draws": 5, "loses": 9, "goal_difference": "+9", "points": 47},
+        {"position": 7, "name":  "Brighton & Hove Albion", "games_played": 29, "wins": 12, "draws": 11, "loses": 6, "goal_difference": "+6", "points": 47},
+        {"position": 8, "name":  "Fulham", "games_played": 29, "wins": 12, "draws": 9, "loses": 8, "goal_difference": "+5", "points": 45},
+        {"position": 9, "name":  "Aston Villa", "games_played": 29, "wins": 12, "draws": 9, "loses": 8, "goal_difference": "-4", "points": 45},
+        {"position": 10, "name":  "AFC Bournemouth", "games_played": 29, "wins": 12, "draws": 8, "loses": 9, "goal_difference": "+12", "points": 44},
+        {"position": 11, "name":  "Brentford", "games_played": 29, "wins": 12, "draws": 5, "loses": 12, "goal_difference": "+5", "points": 41},
+        {"position": 12, "name":  "Crystal Palace", "games_played": 28, "wins": 10, "draws": 9, "loses": 9, "goal_difference": "+3", "points": 39},
+        {"position": 13, "name":  "Manchester United", "games_played": 29, "wins": 10, "draws": 7, "loses": 12, "goal_difference": "-3", "points": 37},
+        {"position": 14, "name":  "Tottenham Hotspur", "games_played": 29, "wins": 10, "draws": 4, "loses": 15, "goal_difference": "+12", "points": 34},
+        {"position": 15, "name":  "Everton", "games_played": 29, "wins": 7, "draws": 13, "loses": 9, "goal_difference": "-4", "points": 34},
+        {"position": 16, "name":  "West Ham United", "games_played": 29, "wins": 9, "draws": 7, "loses": 13, "goal_difference": "-16", "points": 34},
+        {"position": 17, "name":  "Wolverhampton Wanderers", "games_played": 29, "wins": 7, "draws": 5, "loses": 17, "goal_difference": "-18", "points": 26},
+        {"position": 18, "name":  "Ipswich Town", "games_played": 29, "wins": 3, "draws": 8, "loses": 18, "goal_difference": "-34", "points": 17},
+        {"position": 19, "name":  "Leicester City", "games_played": 29, "wins": 4, "draws": 5, "loses": 20, "goal_difference": "-40", "points": 17},
+        {"position": 20, "name":  "Southampton", "games_played": 29, "wins": 2, "draws": 3, "loses": 24, "goal_difference": "-49", "points": 9}
+      ]
+    },
+    {"name": "La Liga",
+      "teams": [
+        {"position": 1, "name":  "Barcelona", "games_played": 27, "wins": 19, "draws": 3, "loses": 5, "goal_difference": "+48", "points": 60},
+        {"position": 2, "name":  "Real Madrid", "games_played": 28, "wins": 18, "draws": 6, "loses": 4, "goal_difference": "+32", "points": 60},
+        {"position": 3, "name":  "Atlético Madrid", "games_played": 29, "wins": 16, "draws": 8, "loses": 4, "goal_difference": "+24", "points": 56},
+        {"position": 4, "name":  "Athletic Club", "games_played": 28, "wins": 14, "draws": 10, "loses": 4, "goal_difference": "+22", "points": 52},
+        {"position": 5, "name":  "Villarreal", "games_played": 27, "wins": 12, "draws": 8, "loses": 7, "goal_difference": "+11", "points": 44},
+        {"position": 6, "name":  "Real Betis", "games_played": 28, "wins": 12, "draws": 8, "loses": 8, "goal_difference": "+3", "points": 44},
+        {"position": 7, "name":  "Mallorca", "games_played": 28, "wins": 11, "draws": 7, "loses": 10, "goal_difference": "-6", "points": 40},
+        {"position": 8, "name":  "Celta vigo", "games_played": 28, "wins": 11, "draws": 6, "loses": 11, "goal_difference": "0", "points": 39},
+        {"position": 9, "name":  "Rayo Vallecano", "games_played": 28, "wins": 9, "draws": 10, "loses": 9, "goal_difference": "0", "points": 37},
+        {"position": 10, "name":  "Sevilla", "games_played": 28, "wins": 9, "draws": 9, "loses": 10, "goal_difference": "-5", "points": 36},
+        {"position": 11, "name":  "Getafe", "games_played": 28, "wins": 9, "draws": 9, "loses": 10, "goal_difference": "+2", "points": 36},
+        {"position": 12, "name":  "Real Sociedad", "games_played": 28, "wins": 10, "draws": 5, "loses": 13, "goal_difference": "-5", "points": 35},
+        {"position": 13, "name":  "Girona", "games_played": 28, "wins": 9, "draws": 7, "loses": 12, "goal_difference": "-5", "points": 34},
+        {"position": 14, "name":  "Osasuna", "games_played": 27, "wins": 7, "draws": 12, "loses": 8, "goal_difference": "-6", "points": 33},
+        {"position": 15, "name":  "Espanyol", "games_played": 27, "wins": 7, "draws": 7, "loses": 13, "goal_difference": "-13", "points": 28},
+        {"position": 16, "name":  "Valencia", "games_played": 28, "wins": 6, "draws": 10, "loses": 12, "goal_difference": "-15", "points": 28},
+        {"position": 17, "name":  "Deportivo Alavés", "games_played": 28, "wins": 6, "draws": 9, "loses": 13, "goal_difference": "-10", "points": 27},
+        {"position": 18, "name":  "Leganes", "games_played": 28, "wins": 6, "draws": 9, "loses": 13, "goal_difference": "-17", "points": 27},
+        {"position": 19, "name":  "Las Palmas", "games_played": 28, "wins": 6, "draws": 7, "loses": 15, "goal_difference": "-15", "points": 25},
+        {"position": 20, "name":  "Real Valladolid", "games_played": 28, "wins": 4, "draws": 4, "loses": 20, "goal_difference": "-45", "points": 16}
+      ]
+    },
+    {"name":  "Bundesliga",
+      "teams": [
+        {"position": 1, "name":  "Bayern München", "games_played": 26, "wins": 19, "draws": 5, "loses": 2, "goal_difference": "+51", "points": 62},
+        {"position": 2, "name":  "Bayer Leverkusen", "games_played": 26, "wins": 16, "draws": 8, "loses": 2, "goal_difference": "+26", "points": 56},
+        {"position": 3, "name":  "Mainz 05", "games_played": 26, "wins": 13, "draws": 6, "loses": 7, "goal_difference": "+16", "points": 45},
+        {"position": 4, "name":  "Eintracht Frankfurt", "games_played": 26, "wins": 13, "draws": 6, "loses": 7, "goal_difference": "+8", "points": 45},
+        {"position": 5, "name":  "RB Leipzig", "games_played": 26, "wins": 11, "draws": 9, "loses": 6, "goal_difference": "+8", "points": 42},
+        {"position": 6, "name":  "Freiburg", "games_played": 26, "wins": 12, "draws": 6, "loses": 8, "goal_difference": "-2", "points": 42},
+        {"position": 7, "name":  "Borussia Mönchengladbach", "games_played": 26, "wins": 12, "draws": 4, "loses": 10, "goal_difference": "+3", "points": 40},
+        {"position": 8, "name":  "Wolfsburg", "games_played": 26, "wins": 10, "draws": 8, "loses": 8, "goal_difference": "+9", "points": 38},
+        {"position": 9, "name":  "Augsburg", "games_played": 26, "wins": 10, "draws": 8, "loses": 8, "goal_difference": "-6", "points": 38},
+        {"position": 10, "name":  "VfB Stuttgart", "games_played": 26, "wins": 10, "draws": 7, "loses": 9, "goal_difference": "+4", "points": 37},
+        {"position": 11, "name":  "Borussia Dortmund", "games_played": 26, "wins": 10, "draws": 5, "loses": 11, "goal_difference": "+4", "points": 35},
+        {"position": 12, "name":  "Werder Bremen", "games_played": 26, "wins": 9, "draws": 6, "loses": 11, "goal_difference": "-13", "points": 33},
+        {"position": 13, "name":  "Union Berlin", "games_played": 26, "wins": 7, "draws": 6, "loses": 13, "goal_difference": "-16", "points": 27},
+        {"position": 14, "name":  "Hoffenheim", "games_played": 26, "wins": 6, "draws": 8, "loses": 12, "goal_difference": "-16", "points": 26},
+        {"position": 15, "name":  "St. Pauli", "games_played": 26, "wins": 7, "draws": 4, "loses": 15, "goal_difference": "-10", "points": 25},
+        {"position": 16, "name":  "Bochum", "games_played": 26, "wins": 5, "draws": 5, "loses": 16, "goal_difference": "-25", "points": 20},
+        {"position": 17, "name":  "FC Heidenheim", "games_played": 26, "wins": 5, "draws": 4, "loses": 17, "goal_difference": "-21", "points": 19},
+        {"position": 18, "name":  "Holstein Kiel", "games_played": 26, "wins": 4, "draws": 5, "loses": 17, "goal_difference": "-26", "points": 17}
+      ]
+    },
+    {"name":  "Serie A",
+      "teams": [
+        {"position": 1, "name":  "Inter", "games_played": 29, "wins": 19, "draws": 7, "loses": 3, "goal_difference": "+38", "points": 64},
+        {"position": 2, "name":  "Napoli", "games_played": 29, "wins": 18, "draws": 7, "loses": 4, "goal_difference": "+22", "points": 61},
+        {"position": 3, "name":  "Atalanta", "games_played": 29, "wins": 17, "draws": 7, "loses": 5, "goal_difference": "+35", "points": 58},
+        {"position": 4, "name":  "Bologna", "games_played": 29, "wins": 14, "draws": 11, "loses": 4, "goal_difference": "+15", "points": 53},
+        {"position": 5, "name":  "Juventus", "games_played": 29, "wins": 13, "draws": 13, "loses": 3, "goal_difference": "+17", "points": 52},
+        {"position": 6, "name":  "Lazio", "games_played": 29, "wins": 15, "draws": 6, "loses": 8, "goal_difference": "+9", "points": 51},
+        {"position": 7, "name":  "Roma", "games_played": 29, "wins": 14, "draws": 7, "loses": 8, "goal_difference": "+14", "points": 49},
+        {"position": 8, "name":  "Fiorentina", "games_played": 29, "wins": 14, "draws": 6, "loses": 9, "goal_difference": "+16", "points": 48},
+        {"position": 9, "name":  "Milan", "games_played": 29, "wins": 13, "draws": 8, "loses": 8, "goal_difference": "+11", "points": 47},
+        {"position": 10, "name":  "Udinese", "games_played": 29, "wins": 11, "draws": 7, "loses": 11, "goal_difference": "-4", "points": 40},
+        {"position": 11, "name":  "Torino", "games_played": 29, "wins": 9, "draws": 11, "loses": 9, "goal_difference": "0", "points": 38},
+        {"position": 12, "name":  "Genoa", "games_played": 29, "wins": 8, "draws": 11, "loses": 10, "goal_difference": "-9", "points": 35},
+        {"position": 13, "name":  "Como", "games_played": 29, "wins": 7, "draws": 8, "loses": 14, "goal_difference": "-11", "points": 29},
+        {"position": 14, "name":  "Hellas verona", "games_played": 29, "wins": 9, "draws": 2, "loses": 18, "goal_difference": "-29", "points": 29},
+        {"position": 15, "name":  "Cagliari", "games_played": 29, "wins": 6, "draws": 8, "loses": 15, "goal_difference": "-16", "points": 26},
+        {"position": 16, "name":  "Lecce", "games_played": 29, "wins": 6, "draws": 7, "loses": 16, "goal_difference": "-27", "points": 25},
+        {"position": 17, "name":  "Parma", "games_played": 29, "wins": 5, "draws": 10, "loses": 14, "goal_difference": "-14", "points": 25},
+        {"position": 18, "name":  "Empoli", "games_played": 29, "wins": 4, "draws": 10, "loses": 15, "goal_difference": "-23", "points": 22},
+        {"position": 19, "name":  "Venezia", "games_played": 29, "wins": 3, "draws": 11, "loses": 15, "goal_difference": "-19", "points": 20},
+        {"position": 20, "name":  "Monza", "games_played": 29, "wins": 2, "draws": 9, "loses": 18, "goal_difference": "-25", "points": 15}
+      ]
+    },
+    {"name":  "French League",
+      "teams": [
+        {"position": 1, "name":  "PSG", "games_played": 26, "wins": 21, "draws": 5, "loses": 0, "goal_difference": "+48", "points": 68},
+        {"position": 2, "name":  "Marseille", "games_played": 26, "wins": 15, "draws": 4, "loses": 7, "goal_difference": "+20", "points": 49},
+        {"position": 3, "name":  "Monaco", "games_played": 26, "wins": 14, "draws": 5, "loses": 7, "goal_difference": "+19", "points": 47},
+        {"position": 4, "name":  "Nice", "games_played": 26, "wins": 13, "draws": 8, "loses": 5, "goal_difference": "+19", "points": 47},
+        {"position": 5, "name":  "Lyon", "games_played": 26, "wins": 13, "draws": 6, "loses": 7, "goal_difference": "+17", "points": 45},
+        {"position": 6, "name":  "Lille", "games_played": 26, "wins": 12, "draws": 8, "loses": 6, "goal_difference": "+12", "points": 44},
+        {"position": 7, "name":  "Strasbourg", "games_played": 26, "wins": 12, "draws": 7, "loses": 7, "goal_difference": "+8", "points": 43},
+        {"position": 8, "name":  "Lens", "games_played": 26, "wins": 11, "draws": 6, "loses": 9, "goal_difference": "+2", "points": 39},
+        {"position": 9, "name":  "Brest", "games_played": 26, "wins": 11, "draws": 4, "loses": 11, "goal_difference": "-2", "points": 37},
+        {"position": 10, "name":  "Toulouse", "games_played": 26, "wins": 9, "draws": 7, "loses": 10, "goal_difference": "+4", "points": 34},
+        {"position": 11, "name":  "Auxerre", "games_played": 26, "wins": 8, "draws": 8, "loses": 10, "goal_difference": "-2", "points": 32},
+        {"position": 12, "name":  "Rennes", "games_played": 26, "wins": 9, "draws": 2, "loses": 15, "goal_difference": "-2", "points": 29},
+        {"position": 13, "name":  "Nantes", "games_played": 26, "wins": 6, "draws": 9, "loses": 11, "goal_difference": "-14", "points": 27},
+        {"position": 14, "name":  "Angers", "games_played": 26, "wins": 7, "draws": 6, "loses": 13, "goal_difference": "-16", "points": 27},
+        {"position": 15, "name":  "Reims", "games_played": 26, "wins": 5, "draws": 8, "loses": 13, "goal_difference": "-14", "points": 23},
+        {"position": 16, "name":  "Le Havre", "games_played": 26, "wins": 6, "draws": 3, "loses": 17, "goal_difference": "-29", "points": 21},
+        {"position": 17, "name":  "Saint-Etienne", "games_played": 25, "wins": 5, "draws": 5, "loses": 15, "goal_difference": "-32", "points": 20},
+        {"position": 18, "name":  "Montpellier", "games_played": 25, "wins": 4, "draws": 3, "loses": 18, "goal_difference": "-38", "points": 15}
+      ]
+    }
+  ],
+
+  "Stats": [
+    {"name": "Premier League",
+      "top_scorer": [
+        {"name":  "Mohamed Salah (Liverpool)", "goals": 27, "games": 29, "goals_per_game": 0.93},
+        {"name":  "Erling Haaland (Manchester City)", "goals": 21, "games": 28, "goals_per_game": 0.75},
+        {"name":  "Alexander Isak (Newcastle)", "goals": 19, "games": 25, "goals_per_game": 0.76},
+        {"name":  "Chris Wood (Nottingham Forest)", "goals": 18, "games": 29, "goals_per_game": 0.66},
+        {"name":  "Bryan Mbeumo (Brentford)", "goals": 15, "games": 29, "goals_per_game": 0.52}
+      ],
+      "top_assister": [
+        {"name":  "Mohamed Salah (Liverpool)", "assists": 17, "games": 29, "assists_per_game": 0.58},
+        {"name":  "Bukayo Saka (Arsenal)", "assists": 10, "games": 16, "assists_per_game": 0.63},
+        {"name":  "Mikkel Damsgaard (Brentford)", "assists": 10, "games": 29, "assists_per_game": 0.34},
+        {"name":  "Antonee Robinson (Fulham)", "assists": 10, "games": 29, "assists_per_game": 0.34},
+        {"name":  "Bruno Fernandes (Manchester United)", "assists": 9, "games": 28, "assists_per_game": 0.32}
+      ],
+      "top_clean_sheet": [
+        {"name":  "Matz Sels (Nottingham Forest)", "clean_sheets": 12, "games": 29, "clean_sheets_per_game": 0.41},
+        {"name":  "David Raya (Arsenal)", "clean_sheets": 11, "games": 29, "clean_sheets_per_game": 0.38},
+        {"name":  "Dean Henderson (Crystal Palace)", "clean_sheets": 9, "games": 28, "clean_sheets_per_game": 0.32},
+        {"name":  "Jordan Pickford (Everton)", "clean_sheets": 9, "games": 29, "clean_sheets_per_game": 0.32},
+        {"name":  "Alisson Becker (Liverpool)", "clean_sheets": 8, "games": 21, "clean_sheets_per_game": 0.38}
+      ]
+    },
+    {"name": "La Liga",
+      "top_scorer": [
+        {"name":  "Robert Lewandowski (Barcelona)", "goals": 22, "games": 26, "goals_per_game": 0.85},
+        {"name":  "Kylian Mbappé (Real Madrid)", "goals": 20, "games": 26, "goals_per_game": 0.77},
+        {"name":  "Ante Budimir (Osasuna)", "goals": 15, "games": 27, "goals_per_game": 0.56},
+        {"name":  "Raphinha (Barcelona)", "goals": 13, "games": 27, "goals_per_game": 0.48},
+        {"name":  "Oihan Sancet (Athletic Club)", "goals": 13, "games": 21, "goals_per_game": 0.62}
+      ],
+      "top_assister": [
+        {"name":  "Lamine Yamal (Barcelona)", "assists": 11, "games": 24, "assists_per_game": 0.46},
+        {"name":  "Raphina (Barcelona)", "assists": 8, "games": 27, "assists_per_game": 0.30},
+        {"name":  "Inaki Williams (Athletic Club)", "assists": 8, "games": 27, "assists_per_game": 0.30},
+        {"name":  "Álex Baena (Villarreal)", "assists": 7, "games": 25, "assists_per_game": 0.28},
+        {"name":  "Alex Berenguer", "assists": 7, "games": 27, "assists_per_game": 0.26}
+      ],
+      "top_clean_sheet": [
+        {"name":  "Jan Oblak (Atlético Madrid)", "clean_sheets": 12, "games": 27, "clean_sheets_per_game": 0.45},
+        {"name":  "Alex Romiro (Real Sociedad)", "clean_sheets": 12, "games": 27, "clean_sheets_per_game": 0.45},
+        {"name":  "Thibaut Courtois (Real Madrid)", "clean_sheets": 8, "games": 24, "clean_sheets_per_game": 0.33},
+        {"name":  "David Soria (Getafe)", "clean_sheets": 8, "games": 28, "clean_sheets_per_game": 0.29},
+        {"name":  "Marko Dmitrovic (Leganes)", "clean_sheets": 7, "games": 22, "clean_sheets_per_game": 0.32}
+      ]
+    },
+    {"name":  "Bundesliga",
+      "top_scorer": [
+        {"name":  "Harry Kane (Bayern München)", "goals": 21, "games": 24, "goals_per_game": 0.88},
+        {"name":  "Patrik Schick (Bayer Leverkusen)", "goals": 17, "games": 23, "goals_per_game": 0.74},
+        {"name":  "Jonathan Burkardt (Mainz 05)", "goals": 15, "games": 22, "goals_per_game": 0.68},
+        {"name":  "Tim Kleindienst (Borussia Mönchengladbach)", "goals": 15, "games": 25, "goals_per_game": 0.60},
+        {"name":  "Omar Marmoush (Eintracht Frankfurt)", "goals": 15, "games": 17, "goals_per_game": 0.88}
+      ],
+      "top_assister": [
+        {"name":  "Florian Wirtz (Bayer Leverkusen)", "assists": 10, "games": 25, "assists_per_game": 0.40},
+        {"name":  "Omar Marmoush (Eintracht Frankfurt)", "assists": 9, "games": 17, "assists_per_game": 0.53},
+        {"name":  "Mohamed Amoura (Wolfsburg)", "assists": 8, "games": 24, "assists_per_game": 0.33},
+        {"name":  "Micheal Olise (Bayern München)", "assists": 7, "games": 26, "assists_per_game": 0.27},
+        {"name":  "Marvin Ducksch (Werder Bremen)", "assists": 7, "games": 24, "assists_per_game": 0.29}
+      ],
+      "top_clean_sheet": [
+        {"name":  "Péter Gulácsi (RB Leipzig)", "clean_sheets": 13, "games": 25, "clean_sheets_per_game": 0.52},
+        {"name":  "Manuel Neuer (Bayern München)", "clean_sheets": 11, "games": 20, "clean_sheets_per_game": 0.55},
+        {"name":  "Noah Atubolu (Freiburg)", "clean_sheets": 10, "games": 23, "clean_sheets_per_game": 0.43},
+        {"name":  "Robin Zentner (Mainz 05)", "clean_sheets": 9, "games": 26, "clean_sheets_per_game": 0.35},
+        {"name":  "Finn Dahmen (Augsburg)", "clean_sheets": 8, "games": 11, "clean_sheets_per_game": 0.73}
+      ]
+    },
+    {"name":  "Serie A",
+      "top_scorer": [
+        {"name":  "Mateo Retegui (Atalanta)", "goals": 22, "games": 27, "goals_per_game": 0.81},
+        {"name":  "Moise Kean (Fiorentina)", "goals": 15, "games": 26, "goals_per_game": 0.58},
+        {"name":  "Marcus Thuram (Inter)", "goals": 13, "games": 28, "goals_per_game": 0.46},
+        {"name":  "Ademola Lookman (Atalanta)", "goals": 13, "games": 23, "goals_per_game": 0.57},
+        {"name":  "Lautaro Martinez (Inter)", "goals": 11, "games": 27, "goals_per_game": 0.41}
+      ],
+      "top_assister": [
+        {"name":  "Nuno Tavares (Lazio)", "assists": 8, "games": 20, "assists_per_game": 0.40},
+        {"name":  "Romelu Lukaku (Napoli)", "assists": 8, "games": 27, "assists_per_game": 0.30},
+        {"name":  "Rafael Leao (Milan)", "assists": 7, "games": 27, "assists_per_game": 0.26},
+        {"name":  "Nicolo Barella (Inter)", "assists": 6, "games": 26, "assists_per_game": 0.23},
+        {"name":  "Christian Pulisic (Milan)", "assists": 6, "games": 25, "assists_per_game": 0.24}
+      ],
+      "top_clean_sheet": [
+        {"name":  "Yann Sommer (Inter)", "clean_sheets": 12, "games": 26, "clean_sheets_per_game": 0.46},
+        {"name":  "Michele Di Gregorio (Juventus)", "clean_sheets": 11, "games": 24, "clean_sheets_per_game": 0.46},
+        {"name":  "Mile Svilar (Roma)", "clean_sheets": 11, "games": 29, "clean_sheets_per_game": 0.38},
+        {"name":  "Alex Meret (Napoli)", "clean_sheets": 10, "games": 26, "clean_sheets_per_game": 0.38},
+        {"name":  "Marco Carnesecchi (Atalanta)", "clean_sheets": 10, "games": 26, "clean_sheets_per_game": 0.38}
+      ]
+    },
+    {"name":  "french league",
+      "top_scorer": [
+        {"name":  "Ousmane Dembélé (PSG)", "goals": 21, "games": 24, "goals_per_game": 0.88},
+        {"name":  "Mason Greenwood (Marseille)", "goals": 15, "games": 26, "goals_per_game": 0.58},
+        {"name":  "Jonathan David (Lille)", "goals": 14, "games": 24, "goals_per_game": 0.58},
+        {"name":  "Bradley Barcola (PSG)", "goals": 13, "games": 26, "goals_per_game": 0.50},
+        {"name":  "Emanuel Emegha (Strasbourg)", "goals": 11, "games": 21, "goals_per_game": 0.52}
+      ],
+      "top_assister": [
+        {"name":  "Bayan Cherki (Lyon)", "assists": 9, "games": 22, "assists_per_game": 0.41},
+        {"name":  "Moses Simon (Nantes)", "assists": 8, "games": 24, "assists_per_game": 0.33},
+        {"name":  "Joao Neves (PSG)", "assists": 8, "games": 22, "assists_per_game": 0.36},
+        {"name":  "Ludovic Blas (Rennes)", "assists": 7, "games": 24, "assists_per_game": 0.29},
+        {"name":  "Evann Guessand (Nice)", "assists": 7, "games": 26, "assists_per_game": 0.27}
+      ],
+      "top_clean_sheet": [
+        {"name":  "Brice Samba (Rennes)", "clean_sheets": 10, "games": 24, "clean_sheets_per_game": 0.42},
+        {"name":  "Lucas Chevalier (Lille)", "clean_sheets": 9, "games": 26, "clean_sheets_per_game": 0.35},
+        {"name":  "Lucas Perri (Lyon)", "clean_sheets": 9, "games": 26, "clean_sheets_per_game": 0.35},
+        {"name":  "Djordje Petrovic (Strasbourg)", "clean_sheets": 8, "games": 23, "clean_sheets_per_game": 0.35},
+        {"name":  "Marco Bizot (Brest)", "clean_sheets": 8, "games": 25, "clean_sheets_per_game": 0.32}
+      ]
+    }
+  ]
+}
