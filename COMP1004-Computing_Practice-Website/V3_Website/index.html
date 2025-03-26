@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Football event manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+    <h1><u>Time management for football</u></h1>
+</header>
+
+<nav class="navigation">
+    <ul>
+        <li><button onclick="openPopupWindow('Events')">Calendar</button></li>
+        <li><button onclick="openPopupWindow('SignIn')">Sign in</button></li>
+        <li><button onclick="openPopupWindow('Stats')">Statistics</button></li>
+    </ul>
+</nav>
+
+<div id="popup" class="popup">
+    <div class="popup-content">
+        <button class="close-btn" onclick="closePopup()">×</button>
+        <div id="popup-Events" class="popup-page">
+            <div class="popup_title">
+                <h1><u>Calendar</u></h1>
+            </div>
+            <div class="popup_window">
+                <p>Check out the events you have added to the calendar!</p>
+            </div>
+        </div>
+        <div id="popup-SignIn" class="popup-page">
+            <div class="popup_title">
+                <h1><u>Sign in</u></h1>
+            </div>
+            <div class="popup_window">
+                <p>Sign in form</p>
+                <form>
+                    //put form here
+                </form>
+            </div>
+        </div>
+        <div id="popup-Stats" class="popup-page">
+            <div class="popup_title">
+                <h1><u>Statistics</u></h1>
+            </div>
+            <div class="popup_window">
+                <p style="margin: 20px; padding-top: 10px">Enter your stats into the form below to see them appear in the table or <br>you could enter the stats for everyone on a team to compare each player.</p>
+
+                <table id="StatisticsTable">
+                    <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Games played</th>
+                        <th>Goals</th>
+                        <th>Assists</th>
+                        <th>Clean sheets</th>
+                        <th>Yellow cards</th>
+                        <th>Red cards</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
+                </table>
+                <button id="Remove_Entry" style="margin: 20px">Remove last entry</button>
+                <button id="Reset_Stats" style="margin: 20px">Reset Stats</button>
+                <form id="statsForm">
+                    <label for="Player_Name">Enter player name: </label>
+                    <input type="text" id="Player_Name" name="Player_Name" required><br>
+                    <label for="Games_Played">Enter games played: </label>
+                    <input type="text" id="Games_Played" name="Games_Played" required><br>
+                    <label for="Goals">Enter goals: </label>
+                    <input type="text" id="Goals" name="Goals" required><br>
+                    <label for="Assists">Enter assists: </label>
+                    <input type="text" id="Assists" name="Assists" required><br>
+                    <label for="Clean_Sheets">Enter clean sheets: </label>
+                    <input type="text" id="Clean_Sheets" name="Clean_Sheets" required><br>
+                    <label for="Yellow_Cards">Enter yellow cards: </label>
+                    <input type="text" id="Yellow_Cards" name="Yellow_Cards" required><br>
+                    <label for="Red_Cards">Enter red cards: </label>
+                    <input type="text" id="Red_Cards" name="Red_Cards" required><br>
+
+                    <input type="submit" value="Submit" style="margin: 20px">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="column sideL">
+        <p><strong><u>Tips and tricks</u></strong></p>
+        <form>
+            <label for="Position">Choose a position: </label>
+            <select id="Position" name="Position" onchange="updateTips()">
+                <option value="--">--</option>
+                <option value="GK">GK</option>
+                <option value="LB/LWB">LB/LWB</option>
+                <option value="CB">CB</option>
+                <option value="RB/RWB">RB/RWB</option>
+                <option value="CDM">CDM</option>
+                <option value="CM">CM</option>
+                <option value="CAM">CAM</option>
+                <option value="LM/LW">LM/LW</option>
+                <option value="RM/RW">RM/RW</option>
+                <option value="ST">ST</option>
+            </select>
+        </form>
+
+        <div class="row">
+            <div class="column tips_box">
+                <p id="tip1">Select a position to get tips.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="column tips_box">
+                <p id="tip2">Select a position to get tips.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="column tips_box">
+                <p id="tip3">Select a position to get tips.</p>
+            </div>
+        </div>
+    </div>
+    <div class="column middle">
+        <p><strong><u>League table</u></strong></p>
+
+            <form>
+                <label for="League">Choose a league: </label>
+                <select id="League" name="League" onclick="fetchData()">
+                    <option value="--" selected>--</option>
+                    <option value="Premier League">Premier League</option>
+                    <option value="La Liga">La Liga</option>
+                    <option value="Bundesliga">Bundesliga</option>
+                    <option value="Serie A">Serie A</option>
+                    <option value="French League">Ligue 1</option>
+                </select>
+            </form>
+
+        <div class="column LeagueTable">
+            <table id="leagueTable">
+                <thead>
+                <tr>
+                    <th>Position</th>
+                    <th>Name</th>
+                    <th>Games Played</th>
+                    <th>Wins</th>
+                    <th>Draws</th>
+                    <th>Loses</th>
+                    <th>Goal difference</th>
+                    <th>Points</th>
+                </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            <p>Data updated as of the 21/03/2025</p>
+        </div>
+    </div>
+    <div class="column sideR">
+        <p><strong><u>Stats for different leagues</u></strong></p>
+        <form>
+            <label for="Stats_League">Choose a league: </label>
+            <select id="Stats_League" name="Stats_League" onclick="FetchStats()">
+                <option value="--" selected>--</option>
+                <option value="Premier League">Premier League</option>
+                <option value="La Liga">La Liga</option>
+                <option value="Bundesliga">Bundesliga</option>
+                <option value="Serie A">Serie A</option>
+                <option value="french league">Ligue 1</option>
+            </select>
+        </form>
+
+        <div class="column LeagueTable">
+            <form style="margin-top: 10px">
+                <label for="Stats">Choose a Statistic: </label>
+                <select id="Stats" name="Stats" onclick="FetchStats()">
+                    <option value="--" selected>--</option>
+                    <option value="top_scorer">Top Scorer</option>
+                    <option value="top_assister">Top Assister</option>
+                    <option value="top_clean_sheet">Top Clean Sheet</option>
+                </select>
+            </form>
+
+            <table id="statsTable">
+                <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Stat</th>
+                    <th>Games</th>
+                    <th>Per game</th>
+                </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+
+            <p>Data updated as of the 21/03/2025</p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="ClubsWeWorkWith">
+        <p>Clubs that we work with</p>
+        <div class="row_clubs">
+            <img src="Images/standard_Manchester_City_FC_badge.png" alt="Man city logo"/>
+            <img src="Images/man u.png" alt="Man United logo"/>
+            <img src="Images/arsenal.png" alt="Arsenal logo"/>
+            <img src="Images/chelsea.png" alt="Chelsea logo"/>
+            <img src="Images/Liverpool_FC_Digital_Logo_2024.png" alt="Liverpool logo"/>
+            <img src="Images/standard_Everton_logo.png" alt="Everton logo"/>
+            <img src="Images/AC_Milan_png.png" alt="AC Milan logo"/>
+            <img src="Images/Juventus_Logo.png" alt="Juventus logo"/>
+            <img src="Images/standard_Logo_FC_Bayern_M__nchen__2002_2017_.png" alt="Bayern Munich logo"/>
+            <img src="Images/borussia_dortmund_bvb_logo_shield_wappen_by_pname_d6cuie2-350t.png" alt="Borussia dortmund logo"/>
+            <img src="Images/Schalke04Basketball.png" alt="Schalke logo"/>
+            <img src="Images/standard_RB_Leipzig_2014_logo.png" alt="RB Leipzig logo"/>
+            <img src="Images/standard_Real_Madrid_CF.png" alt="Real Madrid logo"/>
+            <img src="Images/standard_FC_Barcelona__crest_.png" alt="FC Barcelona logo"/>
+            <img src="Images/standard_Atletico_Madrid_2017_logo.png" alt="Atletico madrid logo"/>
+            <img src="Images/standard_Valenciacf.png" alt="Valencia logo"/>
+        </div>
+    </div>
+</div>
+
+<footer>
+    <p>&copy; 2025 Football Time Manager. All Rights Reserved.</p>
+</footer>
+<script src="script.js"></script>
+</body>
+</html>
