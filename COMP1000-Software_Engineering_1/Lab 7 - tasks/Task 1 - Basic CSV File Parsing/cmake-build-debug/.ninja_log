@@ -1,0 +1,17 @@
+# ninja log v6
+1	870	1730988768338144317	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+872	1009	1730988769209684157	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+5	798	1730989091194056258	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+799	905	1730989091987454610	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+6	661	1730989124946881842	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+661	700	1730989125601352309	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+4	629	1730989176204329057	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+630	672	1730989176830413842	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+11	814	1730989668872376407	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+815	920	1730989669676420948	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+5	625	1730989714032116060	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+625	667	1730989714652257418	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+5	624	1730989730814040157	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+624	663	1730989731433426790	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59
+3	760	1730989741086482163	CMakeFiles/Task_1___Basic_CSV_File_Parsing.dir/main.cpp.o	e8b827f32a34e4f9
+761	865	1730989741843581595	Task_1___Basic_CSV_File_Parsing	2d307f970e52dd59

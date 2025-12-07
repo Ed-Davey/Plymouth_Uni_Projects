@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task_2___Reading_Data_from_Files_Using_ifstream",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_2___Reading_Data_from_Files_Using_ifstream::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2___Reading_Data_from_Files_Using_ifstream-Debug-5f774ef9cc626e8c3c72.json",
+					"name" : "Task_2___Reading_Data_from_Files_Using_ifstream",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/Lab 6 - tasks/Task 2 - Reading Data from Files Using ifstream/cmake-build-debug",
+		"source" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/Lab 6 - tasks/Task 2 - Reading Data from Files Using ifstream"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

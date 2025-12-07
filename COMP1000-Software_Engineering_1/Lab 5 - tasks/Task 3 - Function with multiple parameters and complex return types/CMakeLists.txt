@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_3___Function_with_multiple_parameters_and_complex_return_types)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_3___Function_with_multiple_parameters_and_complex_return_types main.cpp)

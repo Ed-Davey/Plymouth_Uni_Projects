@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task_4___Exploring_Standard_Template_Library__STL__Templates",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_4___Exploring_Standard_Template_Library__STL__Templates::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_4___Exploring_Standard_Template_Library__STL__Templates-Debug-7a5cf44498ae8720f399.json",
+					"name" : "Task_4___Exploring_Standard_Template_Library__STL__Templates",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/COMP1000/Lab 9 - tasks/Task 4 - Exploring Standard Template Library (STL) Templates/cmake-build-debug",
+		"source" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/COMP1000/Lab 9 - tasks/Task 4 - Exploring Standard Template Library (STL) Templates"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

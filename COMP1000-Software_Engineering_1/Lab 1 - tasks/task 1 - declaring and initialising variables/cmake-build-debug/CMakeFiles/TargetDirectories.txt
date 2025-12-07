@@ -1,0 +1,3 @@
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 1 - declaring and initialising variables/cmake-build-debug/CMakeFiles/task_1___declaring_and_initialising_variables.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 1 - declaring and initialising variables/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 1 - declaring and initialising variables/cmake-build-debug/CMakeFiles/rebuild_cache.dir

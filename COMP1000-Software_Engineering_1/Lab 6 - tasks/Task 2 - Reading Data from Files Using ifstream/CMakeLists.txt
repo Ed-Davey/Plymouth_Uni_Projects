@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_2___Reading_Data_from_Files_Using_ifstream)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2___Reading_Data_from_Files_Using_ifstream main.cpp)

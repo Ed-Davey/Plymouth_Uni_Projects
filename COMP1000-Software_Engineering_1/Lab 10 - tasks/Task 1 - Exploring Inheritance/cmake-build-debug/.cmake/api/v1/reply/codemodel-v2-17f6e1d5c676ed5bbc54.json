@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Task_1___Exploring_Inheritance",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Task_1___Exploring_Inheritance::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1___Exploring_Inheritance-Debug-49f482f48ff8937f368f.json",
+					"name" : "Task_1___Exploring_Inheritance",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edwarddavey/Documents/Programming/CLion projects/C++/COMP1000/Lab 10 - tasks/Task 1 - Exploring Inheritance/cmake-build-debug",
+		"source" : "/Users/edwarddavey/Documents/Programming/CLion projects/C++/COMP1000/Lab 10 - tasks/Task 1 - Exploring Inheritance"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -1,0 +1,3 @@
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 3 - tasks/Task 1 - Simple if-else condition/cmake-build-debug/CMakeFiles/Task_1___Simple_if_else_condition.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 3 - tasks/Task 1 - Simple if-else condition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 3 - tasks/Task 1 - Simple if-else condition/cmake-build-debug/CMakeFiles/rebuild_cache.dir

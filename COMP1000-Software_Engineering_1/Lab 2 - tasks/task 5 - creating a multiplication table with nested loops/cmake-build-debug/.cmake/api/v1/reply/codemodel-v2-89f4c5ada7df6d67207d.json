@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "task_5___creating_a_multiplication_table_with_nested_loops",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "task_5___creating_a_multiplication_table_with_nested_loops::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task_5___creating_a_multiplication_table_with_nested_loops-Debug-2285ac6f3ca960bb47f7.json",
+					"name" : "task_5___creating_a_multiplication_table_with_nested_loops",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 2 - tasks/task 5 - creating a multiplication table with nested loops/cmake-build-debug",
+		"source" : "/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 2 - tasks/task 5 - creating a multiplication table with nested loops"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

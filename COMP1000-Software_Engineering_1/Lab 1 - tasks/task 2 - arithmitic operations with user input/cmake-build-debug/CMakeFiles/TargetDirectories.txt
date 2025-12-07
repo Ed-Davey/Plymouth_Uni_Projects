@@ -1,0 +1,3 @@
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 2 - arithmitic operations with user input/cmake-build-debug/CMakeFiles/task_2___arithmitic_operations_with_user_input.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 2 - arithmitic operations with user input/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 1 - tasks/task 2 - arithmitic operations with user input/cmake-build-debug/CMakeFiles/rebuild_cache.dir

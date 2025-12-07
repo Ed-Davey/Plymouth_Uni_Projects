@@ -1,0 +1,3 @@
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/COMP1000/Lab 9 - tasks/Task 1 - Creating a Simple Template Class/cmake-build-debug/CMakeFiles/Task_1___Creating_a_Simple_Template_Class.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/COMP1000/Lab 9 - tasks/Task 1 - Creating a Simple Template Class/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/C++/COMP1000/Lab 9 - tasks/Task 1 - Creating a Simple Template Class/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_5___Nested_if_else_for_temperature_check)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_5___Nested_if_else_for_temperature_check main.cpp)

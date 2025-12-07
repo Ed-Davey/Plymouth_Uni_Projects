@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(task_4___handling_user_input_in_a_do_while_loop)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(task_4___handling_user_input_in_a_do_while_loop main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(task_5___creating_a_multiplication_table_with_nested_loops)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(task_5___creating_a_multiplication_table_with_nested_loops main.cpp)

@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_1___Writing_Data_to_Files_Using_ofstream)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_1___Writing_Data_to_Files_Using_ofstream main.cpp)

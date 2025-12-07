@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_3___File_Copy_Using_Character_Level_Operations)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_3___File_Copy_Using_Character_Level_Operations main.cpp)

@@ -1,0 +1,21 @@
+# ninja log v6
+1	387	1727962199514079786	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+389	477	1727962199902035686	task_3___nested_loops	2b247284f9d9e97
+3	357	1727962232922498415	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+358	391	1727962233276771930	task_3___nested_loops	2b247284f9d9e97
+7	364	1727962252864963276	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+365	397	1727962253222409147	task_3___nested_loops	2b247284f9d9e97
+14	497	1727962279138464856	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+498	584	1727962279622472617	task_3___nested_loops	2b247284f9d9e97
+3	487	1727962328110415569	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+489	577	1727962328595903615	task_3___nested_loops	2b247284f9d9e97
+3	499	1727962394998613775	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+501	587	1727962395496402077	task_3___nested_loops	2b247284f9d9e97
+20	406	1727962431317113023	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+408	441	1727962431704922734	task_3___nested_loops	2b247284f9d9e97
+6	502	1727962604971890718	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+505	593	1727962605470503253	task_3___nested_loops	2b247284f9d9e97
+4	505	1727962851712515888	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+509	595	1727962852217682773	task_3___nested_loops	2b247284f9d9e97
+4	365	1727962858755155230	CMakeFiles/task_3___nested_loops.dir/main.cpp.o	e9c74a2b192aa041
+365	393	1727962859116555602	task_3___nested_loops	2b247284f9d9e97

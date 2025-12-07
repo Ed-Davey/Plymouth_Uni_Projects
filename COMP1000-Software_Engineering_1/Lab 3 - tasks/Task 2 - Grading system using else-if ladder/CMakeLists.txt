@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_2___Grading_system_using_else_if_ladder)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2___Grading_system_using_else_if_ladder main.cpp)

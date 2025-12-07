@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_2___Using_Function_Overloading_in_Template_Classes)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2___Using_Function_Overloading_in_Template_Classes main.cpp; printer.cpp)

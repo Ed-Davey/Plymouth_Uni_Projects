@@ -1,0 +1,8 @@
+# ninja log v6
+722	827	1732986436916949129	AI_project	708aab30f0b158c3
+4	473	1732994702125786733	CMakeFiles/MysteryMaze.dir/src/PlayerMovement.cpp.o	564722595b9071a8
+2	17	1732994701839076618	clean	ad90e366ad70d77b
+609	741	1732994702731136834	MysteryMaze	cf9dec8f9cef06a0
+4	470	1732994702125537201	CMakeFiles/MysteryMaze.dir/src/Enemy.cpp.o	ad2133c511e9dcf2
+3	593	1732994702125257379	CMakeFiles/MysteryMaze.dir/main.cpp.o	de0d7a213a935c97
+4	609	1732994702125664321	CMakeFiles/MysteryMaze.dir/src/MazeGeneration.cpp.o	c41be922813329b

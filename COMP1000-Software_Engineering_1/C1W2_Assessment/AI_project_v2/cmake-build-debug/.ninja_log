@@ -1,0 +1,8 @@
+# ninja log v6
+2	816	1734410986762110593	CMakeFiles/AI_project_v2.dir/main.cpp.o	b301a2b65a9b001a
+3	819	1734410986763385969	CMakeFiles/AI_project_v2.dir/Enemy.cpp.o	f28682b4daf9a65e
+3	830	1734410986763778456	CMakeFiles/AI_project_v2.dir/Puzzle.cpp.o	18e414956102c389
+2	844	1734410986762938900	CMakeFiles/AI_project_v2.dir/Player.cpp.o	a6880ea5af4dc457
+4	850	1734410986764747467	CMakeFiles/AI_project_v2.dir/Game.cpp.o	61d99a3786852bae
+2	872	1734410986762771197	CMakeFiles/AI_project_v2.dir/Maze.cpp.o	f3208d0b8a6b3cbf
+872	999	1734410987632304145	AI_project_v2	709df255973f88a4

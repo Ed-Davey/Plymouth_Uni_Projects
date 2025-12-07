@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_3___Implementing_a_Template_Class_with_Multiple_Parameters)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_3___Implementing_a_Template_Class_with_Multiple_Parameters main.cpp)

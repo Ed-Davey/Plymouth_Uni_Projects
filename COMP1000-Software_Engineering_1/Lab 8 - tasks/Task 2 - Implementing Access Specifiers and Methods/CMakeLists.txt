@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_2___Implementing_Access_Specifiers_and_Methods)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2___Implementing_Access_Specifiers_and_Methods main.cpp)

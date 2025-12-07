@@ -1,0 +1,3 @@
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 4 - tasks/Task 3 - Pointer basics/cmake-build-debug/CMakeFiles/Task_3___Pointer_basics.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 4 - tasks/Task 3 - Pointer basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/edwarddavey/Library/Mobile Documents/com~apple~CloudDocs/Documents/Programming/CLion projects/Lab 4 - tasks/Task 3 - Pointer basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir

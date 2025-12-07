@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.29)
+project(Task_2___Function_with_return_type_and_parameter_passing_by_reference)
+
+set(CMAKE_CXX_STANDARD 20)
+
+add_executable(Task_2___Function_with_return_type_and_parameter_passing_by_reference main.cpp)
